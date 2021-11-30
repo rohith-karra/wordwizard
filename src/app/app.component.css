@@ -1,0 +1,56 @@
+    
+        #words{
+            text-align: center;
+            font-size: large;
+            font-weight: bold;
+            padding: 10px;
+            padding-top: 10px;
+        }
+        #ans{
+            text-align: center;
+            font-size: large;
+            font-weight: bold;
+            padding: 10px;
+            padding-top: 10px;
+        }
+        #tb{
+            text-align: center;
+        }
+        td{
+            height: 50x;
+            width:300px;
+        }
+        .header {
+            overflow: hidden;
+             background-color:#02ac5f;
+            padding: 20px 10px;
+        }
+        .header a {
+            float: left;
+            color: white;
+            text-align: center;
+            padding: 12px;
+            text-decoration: none;
+            font-size: 18px; 
+            line-height: 25px;
+            border-radius: 4px;
+            }
+            .header a.logo {
+                font-size: 25px;
+                font-weight: bold;
+            }
+            .header-right {
+                float: right;
+            }
+            #b1{
+                background-color: #02ac5f;
+                color: white;
+            }
+            #c1{
+                padding-top: 20px;
+            }
+            #c2{
+                padding-top: 15px;
+                font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            }
+            
